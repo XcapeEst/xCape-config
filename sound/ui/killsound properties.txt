@@ -1,0 +1,2 @@
+File format: 16-bit Wave (.wav)
+Sample rate: 44100hz, 22050hz or 11025hz
