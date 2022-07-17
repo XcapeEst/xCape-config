@@ -8,7 +8,8 @@
 I'm going to try adding as much explanations to each command as i can, in order to give users to ability to form their own configs much easier!
 You can edit and see the xcape-config.cfg however you want to.
 
-Also, if you wish to help me, you can suggest me edits anytime, send me issues you have with my config or help me describe commands. Any help is warmly welcomed!
+Also, if you wish to help me, you can suggest me edits anytime, if you run into issues, let me know.
+You can also help me write blurbs. Any help is warmly welcomed!
 
 ## Changes
 
