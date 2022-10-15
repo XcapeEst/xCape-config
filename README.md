@@ -6,7 +6,7 @@
 *I suggest using this config along with my hud, cHUD!*
 
 I'm going to try adding as many explanations to each command as I can to give users the ability to create configs to their taste much easier!
-You can edit the xcape-config.cfg however much you want to.
+You can edit the xcape-config.cfg however much you want to; but keep in mind that you can't change settings from the in-game menu.
 
 Also, if you wish to help me, you can suggest edits anytime, if you run into issues, let me know.
 You can also help me write blurbs. Any help is warmly welcomed!
@@ -20,6 +20,8 @@ I'm updating this config quite often with new commands and info, so if you want 
 - Removes domination sounds.
 
 - Adds a few killsounds which you can choose from. These hit and killsounds have comments in the metadata, which describe the sound origin.
+
+- Default viewmodel FOV is set to 110 inside the class_default.cfg to reset it after the medigun sets it to 180.
 
 - Class config changes
   - Spy
@@ -41,8 +43,8 @@ I'm updating this config quite often with new commands and info, so if you want 
     - Binds
   	  - R - Fake uber (also sends *>> FAKED CHARGE <<* message in team chat)
   	  - E - Call for medic (also shows nearby teammates medic bubbles through the wall)
+	  - F - Swap vaccinator resistance
   	  - F1 - Respawn with the same medigun
   	  - F2 - Swap between kritz and uber (if configured correctly as shown below) 
   	  - F3 - Respawn with the same loadout (backup used when the connection to the loadout servers is lost)
   	  - Mouse2 - Use ubercharge (also drops the flag and sends *>> CHARGE USED <<* message in team chat)
-
