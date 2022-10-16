@@ -17,9 +17,15 @@ I'm updating this config quite often with new commands and info, so if you want 
 
 - Adds crosshairs that change their style depending on whether you are using primary, secondary or melee weapons!
 
+- Adds a few killsounds which you can choose from. These hit and killsounds have comments in the metadata, which describe the sound origin.
+
 - Removes domination sounds.
 
-- Adds a few killsounds which you can choose from. These hit and killsounds have comments in the metadata, which describe the sound origin.
+- Removes damage particles.
+
+- Removes explosion particles.
+
+- Uses Madness Combat death killsound.
 
 - Default viewmodel FOV is set to 110 inside the class_default.cfg to reset it after the medigun sets it to 180.
 
