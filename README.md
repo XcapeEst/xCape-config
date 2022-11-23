@@ -25,6 +25,8 @@ I'm updating this config quite often with new commands and info, so if you want 
 
 - Removes explosion particles.
 
+- Removes pyroland.
+
 - Uses Madness Combat death killsound.
 
 - Default viewmodel FOV is set to 110 inside the class_default.cfg to reset it after the medigun sets it to 180.
