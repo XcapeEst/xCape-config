@@ -1,6 +1,6 @@
 # xCape's TF2 config
 
-### **WARNING**
+### **Heads up!**
 *This config is* ***VERY*** *personalized and competitive-oriented, there are probably a lot of settings and changes you need to adjust to or change yourself inside the config file!*
 
 *I suggest using this config along with my hud, cHUD!*
